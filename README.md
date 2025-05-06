@@ -19,5 +19,15 @@ Projeto criado para explorar e entender o comportamento do **Box Model** com Tai
 - `background-color`
 - `border`
 - `font-size`, `text-color` e `spacing`
-- 
+ 
 ![Imagem do box model](./assets/img/box-model.png)
+
+### 🧱 `grid-gap`
+
+Projeto simples feito para praticar o uso de **grid layout** e a propriedade `gap` no Tailwind. Foi explorado:
+
+- `grid-cols`
+- `gap`, `gap-x`, `gap-y`
+- Alinhamentos e distribuição de colunas
+
+![Imagem do grid e gap](./assets/img/grid-gap.png)
