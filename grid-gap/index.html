@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grid Gap</title>
+    <link rel="stylesheet" href="./dist/output.css">
+</head>
+<body class="m-8 flex justify-center bg-black">
+    <div class="container w-[1200px] bg-white rounded-md p-5 grid gap-8">
+
+        <div class="header grid grid-cols-3 font-bold">
+            <div class="logo col-start-1">Nivacraft</div>
+            <div class="items col-start-3 grid grid-cols-2">
+                <div>Bicicletas</div>
+                <div>Contato</div>
+            </div>
+        </div>
+
+        <div class="info grid grid-cols-[1fr_2fr] gap-x-4 font-semibold">
+            <div>Produtos de alta qualidade</div>
+            <div>Produtos de alta precisão e qualidade, feitos sob medida para você. Explore o mundo na sua velocidade com Nivacrafr</div>
+        </div>
+
+        <div class="images grid grid-cols-3 font-semibold">
+            <div class="img1">
+                <img src="./assets/img/camera.jpg" alt=""  class="h-[530px]">
+                <p>Notebook R$ 2.000</p>
+            </div>
+            <div class="img2">
+                <img src="./assets/img/notebook.jpg" alt="" class="h-[530px]">
+                <p>Câmera R$ 1.500</p>
+            </div>
+            <div class="img3">
+                <img src="./assets/img/tablet.jpg" alt="" class="h-[530px]">
+                <p>Tablet R$ 1.200</p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
