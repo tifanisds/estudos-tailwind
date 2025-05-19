@@ -19,8 +19,10 @@ Projeto criado para explorar e entender o comportamento do **Box Model** com Tai
 - `background-color`
 - `border`
 - `font-size`, `text-color` e `spacing`
- 
+
 ![Imagem do box model](./assets/img/box-model.png)
+
+---
 
 ### 🧱 `grid-gap`
 
@@ -31,3 +33,27 @@ Projeto simples feito para praticar o uso de **grid layout** e a propriedade `ga
 - Alinhamentos e distribuição de colunas
 
 ![Imagem do grid e gap](./assets/img/grid-gap.png)
+
+---
+
+### 🎨 `cores`
+
+Projeto focado no estudo das **paletas de cores** do Tailwind CSS. A proposta foi criar uma página com blocos coloridos utilizando:
+
+- Classes de `background-color`
+- `hover`, `opacity`, `border-color`
+- Cores personalizadas e padrão do Tailwind
+
+![Imagem do projeto de cores](./assets/img/cores.png)
+
+---
+
+### 🌿 `conecte-se-com-a-natureza`
+
+Página inspiracional com foco em **tipografia**, **espaçamento** e **cores suaves**. Projeto que simula uma landing page simples com o tema natureza, utilizando:
+
+- `font-family`, `font-size`, `leading`
+- `spacing`, `padding`, `margin`
+- `text-lime-...`, `rounded`
+
+![Imagem do projeto natureza](./assets/img/conecte-se-com-natureza.png)
